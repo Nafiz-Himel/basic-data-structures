@@ -10,12 +10,13 @@ This repository contains practical implementations of core data structures using
 
 The following data structures are included:
 
-- 🔹 Arrays  
+- 🔹 Arrays
+- 🔹 Prefix Sum and Binary Search
 - 🔹 Linked Lists  
 - 🔹 Stacks  
 - 🔹 Queues  
-- 🔹 Trees  
-- 🔹 Hash Tables  
-- 🔹 and more!
+- 🔹 Binary Tree
+- 🔹 BST, Heap, Map  
+- 🔹 STL and more!
 
 Each implementation focuses on clarity and simplicity to help learners understand how the data structures work under the hood.
